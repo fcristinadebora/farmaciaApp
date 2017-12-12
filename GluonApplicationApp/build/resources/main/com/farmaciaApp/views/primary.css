@@ -1,0 +1,10 @@
+.view {
+    
+}
+
+.itemList{
+    -fx-padding-right: 0;
+    -fx-padding-left: 0;
+    -fx-padding-bottom: 0;
+    -fx-padding-top: 0;
+}
